@@ -1,4 +1,7 @@
-# admin-panel-finder
+# Admin-panel-finder
+find admin panel
+# Dependencies 
+Windows/Ubuntu/Debian-based Linux Distributions.
 
 # Warning
 
