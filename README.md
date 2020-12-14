@@ -1,4 +1,4 @@
-# Admin-Pannel
+# Admin-Panel Finder
 
 # Warning
 
